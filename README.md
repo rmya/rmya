@@ -9,14 +9,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=dark)
 
 
-## Technologies & Tools
-
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/IOT-black?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
 
 <!--
