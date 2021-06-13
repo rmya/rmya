@@ -1,10 +1,11 @@
-### Hi there I`m Rumeysa Tan -[rmya](https://github.com/rmya)
+<h1 align="center" Hi there I`m Rumeysa Tan </h1>
  
 👋 Welcome to my repository
 
 ## I`m Computer Engineer, Jr. Backend Developer
-
-- 🌱 I’m currently learning Spring 
+- 🔭 I’m currently working on **Spring + React**
+- 🌱 I’m currently learning everything
+📫 How to reach me **tanrumeysa93@gmail.com**
 - 🥅 2021 Goals: Learning as much as I can, improving myself and realizing my dreams
 
 ### Connect with me:
