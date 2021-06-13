@@ -30,21 +30,25 @@
 <br>
 <br />
 
+---
+
+<details>
+ 
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmya&show_icons=true&hide_border=true&count_private=true&theme=react&hide=issues&include_all_commits=true" />
 
+</details>
 
+<details>
+ 
   <summary>:zap: Top Languages</summary>
 
   <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&show_icons=true&hide_border=true&count_private=true&theme=react&layout=compact" />
 
-
+</details>
  
  
-
-
-
 <!--
 **rmya/rmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,5 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=dark)
 -->
