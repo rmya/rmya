@@ -1,6 +1,6 @@
-### Hi there I`m Rumeysa Tan -[rmya](https://github.com/rmya)👋
+### Hi there I`m Rumeysa Tan -[rmya](https://github.com/rmya)
  
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
+👋 Welcome to my repository
 
 ## I`m Computer Engineer, Jr. Backend Developer
 
@@ -48,6 +48,7 @@
 
 </details>
  
+ [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
  
 <!--
 **rmya/rmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
