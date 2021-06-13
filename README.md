@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="rmya | LinkedIn" width="50px" />](https://www.linkedin.com/in/rumeysa-tan7/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="rmya | Twitter" width="50px" />](https://twitter.com/rumittaa?s=08)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="rmya | LinkedIn" width="40px" />](https://www.linkedin.com/in/rumeysa-tan7/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="rmya | Twitter" width="40px" />](https://twitter.com/rumittaa?s=08)
 
 <br>
 <br />
