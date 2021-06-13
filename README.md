@@ -32,11 +32,8 @@
 
 ---
  [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
- ---
-
 
 <br>
-<br />
  
 <details>
  
