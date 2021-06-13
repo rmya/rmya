@@ -31,7 +31,13 @@
 <br />
 
 ---
+ [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
+ ---
 
+
+<br>
+<br />
+ 
 <details>
  
   <summary>:zap: GitHub Stats</summary>
@@ -48,10 +54,7 @@
 
 </details>
 
-<br>
-<br />
- 
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
+
  
 <!--
 **rmya/rmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
