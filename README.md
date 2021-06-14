@@ -5,7 +5,7 @@
 ## I`m Computer Engineer, Jr. Backend Developer
 - 🔭 I’m currently working on **Spring + React**
 - 🌱 I’m currently learning everything
-- 📫 How to reach me **tanrumeysa93@gmail.com**
+- 📫 How to reach me **rumeysa.tan2@gmail.com**
 - 🥅 2021 Goals: Learning as much as I can, improving myself and realizing my dreams
 
 ### Connect with me:
