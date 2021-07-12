@@ -3,7 +3,7 @@
 👋 Welcome to my repository
 
 ## I`m Computer Engineer, Jr. Backend Developer
-- 🔭 I’m currently working on **Spring + React**
+- 🔭 I’m currently working on **Spring and Android**
 - 🌱 I’m currently learning everything
 - 📫 How to reach me **rumeysa.tan2@gmail.com**
 - 🥅 2021 Goals: Learning as much as I can, improving myself and realizing my dreams
@@ -26,7 +26,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
 
 <br>
 <br />
