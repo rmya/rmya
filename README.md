@@ -4,7 +4,6 @@
 
 ## I`m Computer Engineer, Jr. Backend Developer
 - 🔭 I’m currently working on **Spring and Android**
-- 🌱 I’m currently learning everything
 - 📫 How to reach me **rumeysa.tan2@gmail.com**
 - 🥅 2021 Goals: Learning as much as I can, improving myself and realizing my dreams
 
@@ -18,6 +17,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="kotlin" width="40px", src= "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <img align="left" alt="java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="postgresql" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
