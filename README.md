@@ -17,15 +17,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img align="left" alt="java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="postgresql" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
+<img align="left" alt="android" width="40px" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
+<img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+<img align="left" alt="jetpack-compose" width="40px" height="40" src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png?ssl=1" />
+<img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="java" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />	
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C#" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />	
+<img align="left" alt="HTML5" width="40px" height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
 <br>
