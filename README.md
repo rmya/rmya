@@ -2,7 +2,7 @@
  
 👋 Welcome to my repository
 
-## I`m Computer Engineer, Jr. Android Developer
+## I`m Computer Engineer, Android Developer
 - 🔭 I’m currently working on **Android**
 - 🥅 2021 Goals: Learning as much as I can, improving myself and realizing my dreams
 
