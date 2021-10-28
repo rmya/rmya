@@ -14,6 +14,8 @@
 <br>
 <br />
 
+ [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/rmya/StrapDown.js/stargazers/)
+
 ### Languages and Tools:
 
 <img align="left" alt="android" width="40px" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
