@@ -2,9 +2,8 @@
  
 👋 Welcome to my repository
 
-## I`m Computer Engineer, Android Developer
-- 🔭 I’m currently working on **Android**
-- 🥅 2021 Goals: Learning as much as I can, improving myself and realizing my dreams
+## I`m Computer Engineer
+- 🥅 2022 Goals: Learning as much as I can, improving myself and realizing my dreams
 
 ### Connect with me:
 
@@ -20,9 +19,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="android" width="40px" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
-<img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img align="left" alt="jetpack-compose" width="40px" height="40" src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png?ssl=1" />
 <img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="java" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
@@ -54,6 +50,12 @@
 
  
 <!--
+- 🔭 I’m currently working on **Android**
+
+<img align="left" alt="android" width="40px" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
+<img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+<img align="left" alt="jetpack-compose" width="40px" height="40" src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png?ssl=1" />
+
 **rmya/rmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
