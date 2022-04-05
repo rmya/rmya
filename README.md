@@ -19,11 +19,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
+<img align="left" alt="objective-C" width="40px" height="40" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" />
+<img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <img align="left" alt="java" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 	
 
 <br>
@@ -50,7 +52,7 @@
 
  
 <!--
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **ss**
 
 <img align="left" alt="android" width="40px" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
 <img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
