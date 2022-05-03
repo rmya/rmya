@@ -37,7 +37,7 @@
  
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmya&show_icons=true&hide_border=true&count_private=true&theme=react&hide=issues&include_all_commits=true" />
+  ![rmya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmya&count_private=true&show_icons=true&theme=react&layout=compact)
 
 </details>
 
@@ -45,9 +45,10 @@
  
   <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&show_icons=true&hide_border=true&count_private=true&theme=react&layout=compact" />
+  <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=react&hide=html" />
 
 </details>
+
 
 <div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>
 
