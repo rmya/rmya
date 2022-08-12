@@ -26,31 +26,44 @@
 <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="postgresql" height="40" src="https://img.icons8.com/color/40/000000/postgreesql.png"/>
-	
 
 <br>
 <br />
-
 <br>
+
+<table>
+    <tr>
+        <td colspan="4">
+        <strong><samp>Stats</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Top Languages</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=rmya&count_private=true&show_icons=true&theme=react&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=rmya&count_private=true&show_icons=true&theme=react&layout=compact">
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=react&hide=html">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=react&hide=html">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=rmya&theme=react&hide_border=true" alt="rmya">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmya&theme=react&hide_border=true" alt="rmya">
+        </a>
+        </td>
+    </tr>
+</table>
+
+
  
-<details>
- 
-  <summary>:zap: GitHub Stats</summary>
 
-  ![rmya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmya&count_private=true&show_icons=true&theme=react&layout=compact)
-
-</details>
-
-<details>
- 
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="rmya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmya&layout=compact&theme=react&hide=html" />
-
-</details>
-
-
-<div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>
 
 
  
