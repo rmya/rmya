@@ -5,13 +5,17 @@
 ## I`m Computer Engineer
 - 🥅 2022 Goals: Learning as much as I can, improving myself and realizing my dreams
 
+- 📝 I regularly write articles on [Medium](https://medium.com/@rmya)
+
+- ⚡ Fun fact **Reading, Coding, Traveling**
+
+
 ### Connect with me:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="rmya | LinkedIn" width="40px" />](https://www.linkedin.com/in/rumeysa-tan7/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" align="left" alt="rmya | Gmail" width="40px" />](tanrumeysa93@gmail.com)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="rmya | Twitter" width="40px" />](https://twitter.com/rumittaa?s=08)
-
-<br>
-<br />
+<a href="https://medium.com/@rmya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rmya" height="40" width="40" /></a>
 
 <br>
 
